@@ -1,0 +1,9 @@
+COMANDOS BASICOS LINUX
+
+Para ver version de Linux---neofetch
+para crea directorio---mkdir
+para retroceder un directorio---cd ..
+para ir a un directorio--- cd ejemplo
+para installar un paquete descargado .deb--- sudo apt install ./ejemplo.deb
+para eliminar directorio vacio--- rmdir
+para eliminar directorio con su contenido---rm -r 
