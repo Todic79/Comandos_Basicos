@@ -126,3 +126,8 @@ Creación de un repositorio Git derivado (fork)
 Gracias a Git y a la existencia de las grandes librerías de repositorios públicos, como Github, gran parte de las veces no es necesario comenzar a programar nuestro proyecto desde cero. En esos casos, es posible tomar este código de base para crear un nuevo proyecto.
 
 Para ello, lo primero que hay que hacer es un fork de un repositorio existente, o sea, un proyecto derivado del mismo que tome como base el código del proyecto original. En Github, eso se consigue haciendo clic en el botón correspondiente, como se ve en la captura a continuación.
+-------------------------------------------------------
+
+
+
+8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8
